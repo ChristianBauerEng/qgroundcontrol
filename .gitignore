@@ -84,3 +84,6 @@ src/latex/
 .vagrant/
 Qt*-linux*.tar.*
 
+/qgroundcontrol_qmlcache.qrc
+/src_FirmwarePlugin_APM_APMResources_qmlcache.qrc
+/src_FirmwarePlugin_PX4_PX4Resources_qmlcache.qrc
